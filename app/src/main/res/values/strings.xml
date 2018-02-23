@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LuckyMoney</string>
+    <string name="accessible_desc">微信红包插件</string>
+    <string name="open_failed_tip">操作插件失败:请打开 系统设置>无障碍服务>LuckyMoney 自行设置</string>
+    <string name="open_btn">开启插件</string>
+    <string name="close_btn">关闭插件</string>
+</resources>
